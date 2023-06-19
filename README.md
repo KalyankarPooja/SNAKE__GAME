@@ -16,3 +16,8 @@ Implement key listeners to handle user input for changing the snake's direction.
 Use the Graphics class to draw the snake, food, and the game panel on the JFrame.
 
 By following these steps, you can create a Snake game using Java's JFrame and Swing libraries while adhering to the principles of OOP.
+
+Resources:
+visit:https://drive.google.com/drive/folders/1Trh8cnIy_tpDuRsKwlz3zEcqPEwd2GPQ?usp=share_link
+
+
